@@ -34,6 +34,7 @@ Ambassadorship: Promoting STEM education and math pathways as a Teach@Mines and 
     <td>Dynamical systems, numerical analysis, stochastic modeling, scientific computing</td>
   </tr>
   <tr>
-    <td><b>Tools/Libraries</b>NumPy, SciPy, Git, LaTeX</td>
+    <td><b>Tools/Libraries</b></td>
+    <td>NumPy, SciPy, Git, LaTeX</td>
   </tr>
 </table>
