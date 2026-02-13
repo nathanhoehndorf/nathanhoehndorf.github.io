@@ -1,3 +1,3 @@
 # nathanhoehndorf.github.io
 
-[About Page](nathanhoehndorf.github.io/about)
+[About Page](about.md)
